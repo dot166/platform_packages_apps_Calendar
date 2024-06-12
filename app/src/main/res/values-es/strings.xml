@@ -197,7 +197,7 @@
     <string name="accessibility_add_reminder" msgid="2267950744060950152">"Añadir recordatorio"</string>
     <string name="accessibility_remove_reminder" msgid="5261609343259665139">"Eliminar recordatorio"</string>
     <string name="accessibility_add_attendee" msgid="5654014177472600916">"Añadir asistente"</string>
-    <string name="accessibility_all_day" msgid="4146955438811915282">"Todo el día"</string>
+    <string name="accessibility_all_day" msgid="4146955438811915282">Cita para todo el día</string>
     <string name="accessibility_reminder_time" msgid="3594100545814579575">"Duración del recordatorio"</string>
     <string name="accessibility_reminder_type" msgid="5339120699701437227">"Tipo de recordatorio"</string>
     <string name="accessibility_reminder_showmeas" msgid="6669129015980006570">"Mostrarme como"</string>
@@ -369,4 +369,8 @@
     <string name="preferences_do_not_check_battery_optimization">No comprobar la optimización de la batería</string>
     <string name="preferences_do_not_check_battery_optimization_summary">¡Use bajo su propio riesgo! Las notificaciones dejarán de funcionar, el widget dejará de actualizarse y los servicios en segundo plano se bloquearán. Pero no se le preguntará de nuevo si desea habilitar el servicio en segundo plano.</string>
     <string name="calendars">Calendarios</string>
+    <string name="no_snooze_label">Ninguno</string>
+    <string name="discard_event_changes">¿Desea descartar los cambios?</string>
+    <string name="discard">Descartar</string>
+    <string name="cancel">Cancelar</string>
 </resources>
