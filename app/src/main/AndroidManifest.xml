@@ -18,7 +18,7 @@
 */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ws.xsoh.etar"
+    package="com.j.calendar"
     android:installLocation="auto">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -59,7 +59,7 @@
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/standalone_app_label"
-        android:taskAffinity="ws.xsoh.etar.task"
+        android:taskAffinity="com.j.calendar.task"
         android:requiredAccountType="*"
         android:usesCleartextTraffic="false"
         android:theme="@style/CalendarAppThemeLight">

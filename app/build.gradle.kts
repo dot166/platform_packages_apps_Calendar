@@ -11,7 +11,7 @@ editorconfig {
 }
 
 android {
-	namespace = "ws.xsoh.etar"
+	namespace = "com.j.calendar"
 	testNamespace = "com.android.calendar.tests"
 	compileSdk = 34
 
@@ -20,7 +20,7 @@ android {
 		targetSdk = 34
 		versionCode = 46
 		versionName = "1.0.46"
-		applicationId = "ws.xsoh.etar"
+		applicationId = "com.j.calendar"
 		testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 	}
 

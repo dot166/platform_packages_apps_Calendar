@@ -40,7 +40,7 @@ import com.android.calendarcommon2.Time;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * A helper class for deleting events.  If a normal event is selected for

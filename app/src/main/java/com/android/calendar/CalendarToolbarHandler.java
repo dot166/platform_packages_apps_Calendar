@@ -13,7 +13,7 @@ import com.android.calendarcommon2.Time;
 import java.util.Formatter;
 import java.util.Locale;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * Created by xsoh64 on 7/21/15.

@@ -32,7 +32,7 @@ import androidx.preference.PreferenceCategory
 import androidx.preference.PreferenceFragmentCompat
 import androidx.preference.PreferenceScreen
 import com.android.calendar.persistence.Calendar
-import ws.xsoh.etar.R
+import com.j.calendar.R
 
 
 class MainListPreferences : PreferenceFragmentCompat() {

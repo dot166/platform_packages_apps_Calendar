@@ -51,7 +51,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * Allows the user to quickly create a new all-day event from the calendar's month view.

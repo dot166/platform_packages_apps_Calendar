@@ -47,8 +47,8 @@ import com.android.calendar.CalendarController.ViewType;
 import com.android.calendar.agenda.AgendaFragment;
 import com.android.calendarcommon2.Time;
 
-import ws.xsoh.etar.R;
-import ws.xsoh.etar.databinding.SimpleFrameLayoutMaterialBinding;
+import com.j.calendar.R;
+import com.j.calendar.databinding.SimpleFrameLayoutMaterialBinding;
 
 public class SearchActivity extends AppCompatActivity implements CalendarController.EventHandler,
         SearchView.OnQueryTextListener, MenuItemCompat.OnActionExpandListener {

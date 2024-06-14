@@ -42,7 +42,7 @@ import com.android.calendar.Utils;
 import com.android.calendar.event.EditEventActivity;
 import com.android.calendarcommon2.Time;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * Simple widget to show next upcoming calendar event.

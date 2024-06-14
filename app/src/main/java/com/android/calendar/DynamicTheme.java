@@ -10,7 +10,7 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * Created by Gitsaibot on 01.07.16.

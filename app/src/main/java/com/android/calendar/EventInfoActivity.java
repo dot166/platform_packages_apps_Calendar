@@ -39,7 +39,7 @@ import com.android.calendar.CalendarEventModel.ReminderEntry;
 import java.util.ArrayList;
 import java.util.List;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 public class EventInfoActivity extends AppCompatActivity {
 

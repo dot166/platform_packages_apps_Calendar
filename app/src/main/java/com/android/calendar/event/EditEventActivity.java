@@ -40,8 +40,8 @@ import com.android.calendarcommon2.Time;
 
 import java.util.ArrayList;
 
-import ws.xsoh.etar.R;
-import ws.xsoh.etar.databinding.SimpleFrameLayoutMaterialBinding;
+import com.j.calendar.R;
+import com.j.calendar.databinding.SimpleFrameLayoutMaterialBinding;
 
 public class EditEventActivity extends AbstractCalendarActivity {
     public static final String EXTRA_EVENT_COLOR = "event_color";

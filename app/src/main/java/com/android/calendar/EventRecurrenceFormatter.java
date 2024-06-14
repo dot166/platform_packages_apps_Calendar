@@ -26,7 +26,7 @@ import com.android.calendarcommon2.Time;
 
 import java.util.Calendar;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 public class EventRecurrenceFormatter
 {

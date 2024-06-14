@@ -60,7 +60,7 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.List;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 public class MonthByWeekFragment extends SimpleDayPickerFragment implements
         CalendarController.EventHandler, LoaderManager.LoaderCallbacks<Cursor>, OnScrollListener,

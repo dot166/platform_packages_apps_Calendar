@@ -34,7 +34,7 @@ import com.android.calendar.CalendarEventModel.ReminderEntry;
 
 import java.util.ArrayList;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 public class EventViewUtils {
     private static final String TAG = "EventViewUtils";

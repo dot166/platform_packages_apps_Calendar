@@ -37,7 +37,7 @@ import androidx.preference.SwitchPreference
 import com.android.calendar.Utils
 import com.android.calendar.alerts.channelId
 import com.android.calendar.persistence.ICalendarRepository
-import ws.xsoh.etar.R
+import com.j.calendar.R
 
 
 class CalendarPreferences : PreferenceFragmentCompat() {

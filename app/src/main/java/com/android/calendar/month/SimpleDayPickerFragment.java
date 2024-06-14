@@ -44,7 +44,7 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Locale;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * <p>

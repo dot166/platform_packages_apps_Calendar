@@ -57,7 +57,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * Receives android.intent.action.EVENT_REMINDER intents and handles

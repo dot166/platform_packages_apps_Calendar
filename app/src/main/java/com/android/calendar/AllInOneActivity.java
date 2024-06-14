@@ -100,9 +100,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import ws.xsoh.etar.R;
-import ws.xsoh.etar.databinding.AllInOneMaterialBinding;
-import ws.xsoh.etar.databinding.DateRangeTitleBinding;
+import com.j.calendar.R;
+import com.j.calendar.databinding.AllInOneMaterialBinding;
+import com.j.calendar.databinding.DateRangeTitleBinding;
 
 public class AllInOneActivity extends AbstractCalendarActivity implements EventHandler,
         OnSharedPreferenceChangeListener, SearchView.OnQueryTextListener, SearchView.OnSuggestionListener, NavigationView.OnNavigationItemSelectedListener {

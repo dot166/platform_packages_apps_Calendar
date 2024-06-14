@@ -46,7 +46,7 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 // TODO: should Event be Parcelable so it can be passed via Intents?
 public class Event implements Cloneable {

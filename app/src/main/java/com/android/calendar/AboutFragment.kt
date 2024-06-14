@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2020 Dominik Schürmann <dominik@schuermann.eu>
+ * Copyright (C) 2024 ._______166
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -28,7 +29,7 @@ import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import ws.xsoh.etar.R
+import com.j.calendar.R
 import java.util.Calendar
 
 class AboutFragment : Fragment() {
@@ -46,6 +47,10 @@ class AboutFragment : Fragment() {
 
         view.findViewById<LinearLayout>(R.id.authorsLayout).setOnClickListener {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.app_authors_url))))
+        }
+
+        view.findViewById<LinearLayout>(R.id.authorsLayout2).setOnClickListener {
+            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.app_authors2_url)))) // eventually link to jOS Contributors activity
         }
 
         view.findViewById<Button>(R.id.changelog).setOnClickListener {

@@ -37,7 +37,7 @@ import com.android.calendar.agenda.AgendaWindowAdapter.AgendaItem;
 import com.android.calendar.agenda.AgendaWindowAdapter.DayAdapterInfo;
 import com.android.calendarcommon2.Time;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 public class AgendaListView extends ListView implements OnItemClickListener {
 

@@ -50,7 +50,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * Utilities for managing notification dismissal across devices.

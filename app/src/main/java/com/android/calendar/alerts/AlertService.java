@@ -63,7 +63,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.TimeZone;
 
-import ws.xsoh.etar.R;
+import com.j.calendar.R;
 
 /**
  * This service is used to handle calendar event reminders.
